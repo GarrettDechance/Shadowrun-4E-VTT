@@ -1,0 +1,44 @@
+{
+    "name": "shadowrun4e",
+    "title": "Shadowrun 4th Edition",
+    "description": "Shadowrun 4th Edition game",
+    "author": "Garrett Dechance [SaintThiccholas]",
+    "authors": [],
+    "url": "N/A",
+    "bugs": "N/A",
+    "flags": {
+      "allowBugReporter": true
+    },
+    "version": "0.1.0",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "scripts": [],
+    "esmodules": [
+      "dist/bundle.js"
+    ],
+    "styles": [
+      "dist/bundle.css"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "dist/locale/en/config.json"
+      }
+    ],
+    "packs": [
+      
+        
+    ],
+    "system": [],
+    "dependencies": [],
+    "socket": true,
+    "manifest": "https://github.com/GarrettDechance/Shadowrun-4E-VTT",
+    "download": "https://github.com/GarrettDechance/Shadowrun-4E-VTT",
+    "protected": false,
+    "initiative": "placeholdertext",
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "placeholdertext",
+    "secondaryTokenAttribute": "placeholdertext"
+  }
